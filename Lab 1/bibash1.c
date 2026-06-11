@@ -39,8 +39,8 @@ int main(){
     pop();
     pop();
     return 0;
-}
-*/
+}*/
+
 
 
 // QN:-2 ::: A
@@ -107,7 +107,7 @@ for(i=0; infix[i]; i++) {
 
 // QN:-2 ::: B
 
-#include <stdio.h>
+/*#include <stdio.h>
 #include <string.h>
 #include <ctype.h>
 
@@ -203,7 +203,7 @@ int main() {
     printf("Prefix expression: %s\n", prefix);
 
     return 0;
-}
+}*/
 
 
 // QN : 3
@@ -252,7 +252,7 @@ int main() {
 
 
 // QN: 4
-/*#include <stdio.h>
+#include <stdio.h>
 
 char stack[100];
 int top = -1;
@@ -299,4 +299,4 @@ int main() {
         printf("Not Balanced\n");
 
     return 0;
-}*/
+}
